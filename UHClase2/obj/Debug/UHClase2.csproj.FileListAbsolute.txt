@@ -1,0 +1,8 @@
+C:\Users\Kuoneli\OneDrive\Hispanoamericana\Progra 1\Programacion II\C#\UHClase2\bin\Debug\UHClase2.exe.config
+C:\Users\Kuoneli\OneDrive\Hispanoamericana\Progra 1\Programacion II\C#\UHClase2\bin\Debug\UHClase2.exe
+C:\Users\Kuoneli\OneDrive\Hispanoamericana\Progra 1\Programacion II\C#\UHClase2\bin\Debug\UHClase2.pdb
+C:\Users\Kuoneli\OneDrive\Hispanoamericana\Progra 1\Programacion II\C#\UHClase2\obj\Debug\UHClase2.csproj.AssemblyReference.cache
+C:\Users\Kuoneli\OneDrive\Hispanoamericana\Progra 1\Programacion II\C#\UHClase2\obj\Debug\UHClase2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kuoneli\OneDrive\Hispanoamericana\Progra 1\Programacion II\C#\UHClase2\obj\Debug\UHClase2.csproj.CoreCompileInputs.cache
+C:\Users\Kuoneli\OneDrive\Hispanoamericana\Progra 1\Programacion II\C#\UHClase2\obj\Debug\UHClase2.exe
+C:\Users\Kuoneli\OneDrive\Hispanoamericana\Progra 1\Programacion II\C#\UHClase2\obj\Debug\UHClase2.pdb

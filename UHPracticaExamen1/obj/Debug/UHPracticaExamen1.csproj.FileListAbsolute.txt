@@ -1,0 +1,8 @@
+C:\Users\Kuoneli\OneDrive\Hispanoamericana\Progra 1\Programacion II\C#\UHPracticaExamen1\bin\Debug\UHPracticaExamen1.exe.config
+C:\Users\Kuoneli\OneDrive\Hispanoamericana\Progra 1\Programacion II\C#\UHPracticaExamen1\bin\Debug\UHPracticaExamen1.exe
+C:\Users\Kuoneli\OneDrive\Hispanoamericana\Progra 1\Programacion II\C#\UHPracticaExamen1\bin\Debug\UHPracticaExamen1.pdb
+C:\Users\Kuoneli\OneDrive\Hispanoamericana\Progra 1\Programacion II\C#\UHPracticaExamen1\obj\Debug\UHPracticaExamen1.csproj.AssemblyReference.cache
+C:\Users\Kuoneli\OneDrive\Hispanoamericana\Progra 1\Programacion II\C#\UHPracticaExamen1\obj\Debug\UHPracticaExamen1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kuoneli\OneDrive\Hispanoamericana\Progra 1\Programacion II\C#\UHPracticaExamen1\obj\Debug\UHPracticaExamen1.csproj.CoreCompileInputs.cache
+C:\Users\Kuoneli\OneDrive\Hispanoamericana\Progra 1\Programacion II\C#\UHPracticaExamen1\obj\Debug\UHPracticaExamen1.exe
+C:\Users\Kuoneli\OneDrive\Hispanoamericana\Progra 1\Programacion II\C#\UHPracticaExamen1\obj\Debug\UHPracticaExamen1.pdb
